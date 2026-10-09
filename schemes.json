@@ -1,0 +1,750 @@
+[
+  {
+    "id": "pm_kisan",
+    "name": "PM Kisan Samman Nidhi",
+    "category": "Agriculture",
+    "description": "Provides income support of Rs 6000 per year to all landholding farmer families across India.",
+    "eligibility_text": "farmer agriculture landholding rural male female cultivator small marginal farmer annual income below 200000 all states all categories SC ST OBC general age 18 and above",
+    "benefits": "Rs 6,000 per year paid in 3 equal instalments of Rs 2,000 directly into bank account.",
+    "eligibility_criteria": [
+      "Must be a landholding farmer family",
+      "Land must be in the farmer's name",
+      "Annual family income should be below Rs 2 lakh",
+      "Not applicable to government employees, income taxpayers, or institutional landholders"
+    ],
+    "required_documents": [
+      "Aadhaar Card",
+      "Land ownership documents (Khasra/Khatauni)",
+      "Bank account passbook",
+      "Mobile number linked to Aadhaar"
+    ],
+    "how_to_apply": "Apply online at pmkisan.gov.in or visit the nearest Common Service Centre (CSC). You can also apply through your local patwari or agriculture officer.",
+    "source_url": "https://pmkisan.gov.in"
+  },
+  {
+    "id": "pm_awas_gramin",
+    "name": "PM Awas Yojana — Gramin (PMAY-G)",
+    "category": "Housing",
+    "description": "Provides financial assistance to rural BPL households to construct pucca houses.",
+    "eligibility_text": "rural housing BPL below poverty line low income poor homeless houseless SC ST OBC general annual income below 100000 rural areas all states farmer labourer unemployed",
+    "benefits": "Rs 1.20 lakh in plain areas and Rs 1.30 lakh in hilly/difficult areas for house construction. Also includes toilet construction support under SBM.",
+    "eligibility_criteria": [
+      "Must be a rural household",
+      "Must be houseless or living in kutcha/dilapidated house",
+      "Name must be in SECC 2011 data",
+      "Priority to SC/ST, minorities, and BPL families"
+    ],
+    "required_documents": [
+      "Aadhaar Card",
+      "BPL ration card",
+      "Bank account details",
+      "Land documents",
+      "Caste certificate (if applicable)"
+    ],
+    "how_to_apply": "Apply through the Gram Panchayat or Block Development Officer. Selection is done from the SECC 2011 list. Contact your local panchayat for registration.",
+    "source_url": "https://pmayg.nic.in"
+  },
+  {
+    "id": "pm_awas_urban",
+    "name": "PM Awas Yojana — Urban (PMAY-U)",
+    "category": "Housing",
+    "description": "Provides housing for all in urban areas by 2022, offering interest subsidy on home loans for EWS/LIG/MIG categories.",
+    "eligibility_text": "urban housing low income EWS LIG MIG economically weaker section lower income group annual income below 600000 urban slum dweller homeless houseless salaried self-employed all states",
+    "benefits": "Interest subsidy of up to 6.5% on home loans for EWS/LIG. MIG-I gets 4% and MIG-II gets 3% subsidy. Also covers in-situ slum redevelopment.",
+    "eligibility_criteria": [
+      "Must be an urban resident",
+      "EWS: Annual income up to Rs 3 lakh; LIG: up to Rs 6 lakh; MIG-I: up to Rs 12 lakh; MIG-II: up to Rs 18 lakh",
+      "Should not own a pucca house anywhere in India",
+      "First-time home buyer"
+    ],
+    "required_documents": [
+      "Aadhaar Card",
+      "Income proof",
+      "Bank statements",
+      "Property documents",
+      "Caste certificate (if applicable)"
+    ],
+    "how_to_apply": "Apply through banks, housing finance companies, or at pmaymis.gov.in. You can also apply through your local Urban Local Body (ULB).",
+    "source_url": "https://pmaymis.gov.in"
+  },
+  {
+    "id": "jan_dhan",
+    "name": "Pradhan Mantri Jan Dhan Yojana (PMJDY)",
+    "category": "Financial Inclusion",
+    "description": "Ensures access to financial services — banking, savings, credit, insurance and pension — for all unbanked citizens.",
+    "eligibility_text": "unbanked financial inclusion low income rural urban poor all categories SC ST OBC general age 10 and above male female no bank account basic savings",
+    "benefits": "Zero-balance savings account, RuPay debit card, Rs 1 lakh accident insurance cover, Rs 30,000 life insurance, overdraft facility up to Rs 10,000.",
+    "eligibility_criteria": [
+      "Any Indian citizen aged 10 years or above",
+      "No existing bank account",
+      "Valid ID proof required"
+    ],
+    "required_documents": [
+      "Aadhaar Card or any government ID",
+      "Passport size photograph",
+      "Mobile number (optional)"
+    ],
+    "how_to_apply": "Visit any bank branch or Business Correspondent (BC) outlet. Fill the account opening form and submit KYC documents. No minimum balance required.",
+    "source_url": "https://pmjdy.gov.in"
+  },
+  {
+    "id": "atal_pension",
+    "name": "Atal Pension Yojana (APY)",
+    "category": "Social Security",
+    "description": "A government-backed pension scheme for unorganized sector workers guaranteeing a monthly pension after age 60.",
+    "eligibility_text": "unorganized worker labourer age 18 to 40 pension retirement low income informal sector male female all categories SC ST OBC general bank account holder",
+    "benefits": "Guaranteed monthly pension of Rs 1,000 to Rs 5,000 after age 60 depending on contribution. Government co-contributes for eligible subscribers.",
+    "eligibility_criteria": [
+      "Age between 18 and 40 years",
+      "Must have a savings bank account",
+      "Not a member of any statutory social security scheme",
+      "Not an income taxpayer"
+    ],
+    "required_documents": [
+      "Aadhaar Card",
+      "Bank account details",
+      "Mobile number"
+    ],
+    "how_to_apply": "Visit your bank branch or apply online through net banking. Fill the APY registration form and provide Aadhaar and bank details.",
+    "source_url": "https://npscra.nsdl.co.in"
+  },
+  {
+    "id": "pmjjby",
+    "name": "PM Jeevan Jyoti Bima Yojana (PMJJBY)",
+    "category": "Insurance",
+    "description": "Low-cost life insurance scheme offering Rs 2 lakh life cover at just Rs 330 per year for bank account holders.",
+    "eligibility_text": "life insurance low cost age 18 to 50 male female bank account low income all categories SC ST OBC general annual premium affordable",
+    "benefits": "Rs 2 lakh life insurance cover on death from any cause. Premium of Rs 330 per year auto-debited from bank account.",
+    "eligibility_criteria": [
+      "Age between 18 and 50 years",
+      "Must have a savings bank account",
+      "Must give consent for auto-debit of premium"
+    ],
+    "required_documents": [
+      "Aadhaar Card",
+      "Bank account details",
+      "Enrollment form"
+    ],
+    "how_to_apply": "Apply at your bank branch or online through net banking. Submit the enrollment form and provide auto-debit consent.",
+    "source_url": "https://jansuraksha.gov.in"
+  },
+  {
+    "id": "pmsby",
+    "name": "PM Suraksha Bima Yojana (PMSBY)",
+    "category": "Insurance",
+    "description": "Affordable accident insurance scheme offering Rs 2 lakh cover for accidental death and disability at only Rs 20 per year.",
+    "eligibility_text": "accident insurance disability low cost age 18 to 70 male female bank account low income all categories SC ST OBC general affordable premium",
+    "benefits": "Rs 2 lakh for accidental death or permanent total disability. Rs 1 lakh for permanent partial disability. Premium of only Rs 20 per year.",
+    "eligibility_criteria": [
+      "Age between 18 and 70 years",
+      "Must have a savings bank account",
+      "Must give consent for auto-debit of premium"
+    ],
+    "required_documents": [
+      "Aadhaar Card",
+      "Bank account details",
+      "Enrollment form"
+    ],
+    "how_to_apply": "Apply at your bank branch or online through net banking. Submit the enrollment form and provide auto-debit consent.",
+    "source_url": "https://jansuraksha.gov.in"
+  },
+  {
+    "id": "ayushman_bharat",
+    "name": "Ayushman Bharat PM-JAY",
+    "category": "Health",
+    "description": "World's largest health assurance scheme providing Rs 5 lakh health cover per year to poor and vulnerable families.",
+    "eligibility_text": "health insurance hospitalization low income BPL poor family annual income below 100000 SC ST OBC general all states rural urban medical treatment hospital",
+    "benefits": "Rs 5 lakh health cover per family per year for secondary and tertiary hospitalization at empanelled hospitals. Cashless treatment.",
+    "eligibility_criteria": [
+      "Must be listed in SECC 2011 data",
+      "Includes deprived rural families and identified occupational categories in urban areas",
+      "No cap on family size or age",
+      "Pre-existing diseases covered from day one"
+    ],
+    "required_documents": [
+      "Aadhaar Card",
+      "Ration card",
+      "PM-JAY beneficiary card (Golden Card)"
+    ],
+    "how_to_apply": "Check eligibility at pmjay.gov.in or call 14555. Visit nearest Common Service Centre or empanelled hospital to get Golden Card.",
+    "source_url": "https://pmjay.gov.in"
+  },
+  {
+    "id": "nsp_sc_postmatric",
+    "name": "Post Matric Scholarship for SC Students",
+    "category": "Education",
+    "description": "Scholarship for Scheduled Caste students pursuing post-matriculation or post-secondary education.",
+    "eligibility_text": "SC scheduled caste student post matriculation education scholarship college university annual income below 250000 male female age 14 to 30",
+    "benefits": "Maintenance allowance, study tour charges, thesis typing/printing charges, book allowance, and other allowances depending on course level.",
+    "eligibility_criteria": [
+      "Must belong to Scheduled Caste category",
+      "Studying in post-matriculation or post-secondary stage",
+      "Annual parental/guardian income should not exceed Rs 2.5 lakh",
+      "Must be a regular student"
+    ],
+    "required_documents": [
+      "Caste certificate (SC)",
+      "Income certificate",
+      "Previous year mark sheet",
+      "Aadhaar Card",
+      "Bank account details",
+      "Bonafide certificate from institution"
+    ],
+    "how_to_apply": "Apply online at scholarships.gov.in (National Scholarship Portal). Register, fill application form, upload documents and submit before the deadline.",
+    "source_url": "https://scholarships.gov.in"
+  },
+  {
+    "id": "nsp_minority_prematric",
+    "name": "Pre-Matric Scholarship for Minorities",
+    "category": "Education",
+    "description": "Scholarship for minority community students studying in Class 1 to Class 10 to support their education.",
+    "eligibility_text": "minority Muslim Christian Sikh Buddhist Parsi student pre matric scholarship school class 1 to 10 annual income below 100000 male female age 6 to 16",
+    "benefits": "Admission fee, tuition fee, maintenance allowance for day scholars and hostellers. Day scholars get Rs 500/month and hostellers get Rs 1,000/month.",
+    "eligibility_criteria": [
+      "Must belong to a minority community (Muslim, Christian, Sikh, Buddhist, Parsi, Jain)",
+      "Studying in Class 1 to 10",
+      "Annual family income below Rs 1 lakh",
+      "Must have secured at least 50% marks in previous class"
+    ],
+    "required_documents": [
+      "Minority community certificate",
+      "Income certificate",
+      "Previous year mark sheet",
+      "Aadhaar Card",
+      "Bank account details"
+    ],
+    "how_to_apply": "Apply online at scholarships.gov.in (National Scholarship Portal) during the application window, usually July to October.",
+    "source_url": "https://scholarships.gov.in"
+  },
+  {
+    "id": "sukanya_samriddhi",
+    "name": "Sukanya Samriddhi Yojana (SSY)",
+    "category": "Women and Child Welfare",
+    "description": "A savings scheme for the girl child to meet education and marriage expenses, offering high interest rate with tax benefits.",
+    "eligibility_text": "girl child daughter female education marriage savings parents guardian age below 10 all categories SC ST OBC general low income middle income",
+    "benefits": "Interest rate of 8.2% per annum (revised quarterly). Tax deduction under Section 80C. Maturity amount tax-free. Partial withdrawal allowed for education.",
+    "eligibility_criteria": [
+      "Account can be opened for a girl child below 10 years of age",
+      "Maximum two accounts per family (one per girl child)",
+      "Must be opened by parent or legal guardian",
+      "Minimum deposit Rs 250 per year"
+    ],
+    "required_documents": [
+      "Girl child's birth certificate",
+      "Parent/guardian Aadhaar Card",
+      "Address proof",
+      "Photograph"
+    ],
+    "how_to_apply": "Open an account at any post office or authorized bank branch. Fill the SSY account opening form and make initial deposit (minimum Rs 250).",
+    "source_url": "https://www.indiapost.gov.in"
+  },
+  {
+    "id": "pm_matru_vandana",
+    "name": "Pradhan Mantri Matru Vandana Yojana (PMMVY)",
+    "category": "Women and Child Welfare",
+    "description": "Maternity benefit scheme providing cash incentive to pregnant and lactating women for the first living child.",
+    "eligibility_text": "pregnant lactating women maternity first child female age 19 and above low income all categories SC ST OBC general rural urban",
+    "benefits": "Cash benefit of Rs 5,000 in three instalments for the first living child. Additional benefit under JSY for institutional delivery.",
+    "eligibility_criteria": [
+      "Pregnant and lactating women aged 19 years and above",
+      "For the first living child only",
+      "Must not be in regular employment with the central or state government",
+      "Must register at Anganwadi Centre"
+    ],
+    "required_documents": [
+      "Aadhaar Card",
+      "MCP card (Mother and Child Protection)",
+      "Bank account details",
+      "Proof of pregnancy"
+    ],
+    "how_to_apply": "Register at the nearest Anganwadi Centre (AWC) or approved health facility. Fill Form 1-A for registration within the prescribed time.",
+    "source_url": "https://wcd.nic.in/schemes/pradhan-mantri-matru-vandana-yojana"
+  },
+  {
+    "id": "mgnrega",
+    "name": "Mahatma Gandhi NREGA (MGNREGS)",
+    "category": "Employment",
+    "description": "Guarantees 100 days of wage employment per year to rural households willing to do unskilled manual work.",
+    "eligibility_text": "rural employment unskilled manual labour adult male female age 18 and above rural household low income all categories SC ST OBC general unemployed labourer",
+    "benefits": "100 days of guaranteed wage employment per household per year. Wages paid as per state schedule. Unemployment allowance if work not provided within 15 days.",
+    "eligibility_criteria": [
+      "Must be a rural household",
+      "Adult members (18 years and above) willing to do unskilled manual work",
+      "Must have a job card issued by Gram Panchayat"
+    ],
+    "required_documents": [
+      "Aadhaar Card",
+      "Job card (obtained from Gram Panchayat)",
+      "Bank account or post office account details"
+    ],
+    "how_to_apply": "Register at the Gram Panchayat office to get a Job Card. Once registered, apply for work in writing or orally to the Gram Panchayat.",
+    "source_url": "https://nrega.nic.in"
+  },
+  {
+    "id": "startup_india",
+    "name": "Startup India Seed Fund Scheme",
+    "category": "Entrepreneurship",
+    "description": "Provides financial assistance to startups for proof of concept, prototype development, product trials and market entry.",
+    "eligibility_text": "startup entrepreneur self-employed business innovation age 18 and above male female all categories SC ST OBC general urban rural technology product",
+    "benefits": "Up to Rs 20 lakh for proof of concept, prototype and product trials. Up to Rs 50 lakh for market entry and commercialization as convertible debentures or debt.",
+    "eligibility_criteria": [
+      "DPIIT recognized startup",
+      "Incorporated not more than 2 years ago",
+      "Should not have received more than Rs 10 lakh of monetary support from Government",
+      "Should not have received funding from venture capital fund"
+    ],
+    "required_documents": [
+      "DPIIT recognition certificate",
+      "Incorporation certificate",
+      "Business plan",
+      "Aadhaar and PAN of founders",
+      "Bank account details"
+    ],
+    "how_to_apply": "Apply online at seedfund.startupindia.gov.in. Select an incubator, fill the application form and submit required documents.",
+    "source_url": "https://seedfund.startupindia.gov.in"
+  },
+  {
+    "id": "standup_india",
+    "name": "Stand-Up India",
+    "category": "Entrepreneurship",
+    "description": "Facilitates bank loans between Rs 10 lakh and Rs 1 crore to SC/ST and women entrepreneurs for setting up greenfield enterprises.",
+    "eligibility_text": "SC ST women entrepreneur self-employed business loan female SC scheduled caste ST scheduled tribe age 18 and above greenfield enterprise manufacturing services trading",
+    "benefits": "Bank loans between Rs 10 lakh and Rs 1 crore for greenfield enterprises in manufacturing, services or trading sector.",
+    "eligibility_criteria": [
+      "SC/ST or woman borrower",
+      "Age 18 years and above",
+      "Setting up a greenfield enterprise",
+      "In case of non-individual enterprises, 51% shareholding by SC/ST or woman"
+    ],
+    "required_documents": [
+      "Aadhaar Card",
+      "Caste certificate (for SC/ST)",
+      "Business plan",
+      "Bank account details",
+      "PAN card",
+      "Address proof"
+    ],
+    "how_to_apply": "Apply online at standupmitra.in or visit any scheduled commercial bank branch. Register on the portal and connect with a handholding agency if needed.",
+    "source_url": "https://standupmitra.in"
+  },
+  {
+    "id": "mudra_yojana",
+    "name": "PM MUDRA Yojana",
+    "category": "Entrepreneurship",
+    "description": "Provides loans up to Rs 10 lakh to non-corporate, non-farm small and micro enterprises through banks, MFIs and NBFCs.",
+    "eligibility_text": "small business micro enterprise self-employed low income non-farm entrepreneur male female all categories SC ST OBC general annual income below 1000000 shop vendor trader",
+    "benefits": "Shishu: loans up to Rs 50,000. Kishor: Rs 50,001 to Rs 5 lakh. Tarun: Rs 5 lakh to Rs 10 lakh. No collateral required for Shishu loans.",
+    "eligibility_criteria": [
+      "Non-corporate, non-farm small and micro enterprises",
+      "Business activities in manufacturing, trading, services sector",
+      "No collateral required",
+      "Indian citizen above 18 years"
+    ],
+    "required_documents": [
+      "Aadhaar Card",
+      "PAN Card",
+      "Business plan/proof of business",
+      "Bank account details",
+      "Address proof",
+      "Caste certificate (if applicable)"
+    ],
+    "how_to_apply": "Apply at any bank branch, MFI or NBFC. Alternatively visit mudra.org.in. Fill loan application with business details and required documents.",
+    "source_url": "https://mudra.org.in"
+  },
+  {
+    "id": "nsap_old_age",
+    "name": "Indira Gandhi National Old Age Pension Scheme (IGNOAPS)",
+    "category": "Social Security",
+    "description": "Monthly pension for elderly citizens belonging to BPL families.",
+    "eligibility_text": "elderly old age senior citizen age 60 and above BPL below poverty line low income male female all categories SC ST OBC general pension monthly",
+    "benefits": "Rs 200 per month for persons aged 60-79 years. Rs 500 per month for persons aged 80 years and above.",
+    "eligibility_criteria": [
+      "Age 60 years and above",
+      "Must belong to a BPL household",
+      "Should not be receiving pension from any other source"
+    ],
+    "required_documents": [
+      "Aadhaar Card",
+      "Age proof (birth certificate or school certificate)",
+      "BPL ration card",
+      "Bank account details"
+    ],
+    "how_to_apply": "Apply at the District Social Welfare Office or Gram Panchayat. Submit the application form with required documents. Block/tehsil office processes the application.",
+    "source_url": "https://nsap.nic.in"
+  },
+  {
+    "id": "nsap_widow",
+    "name": "Indira Gandhi National Widow Pension Scheme (IGNWPS)",
+    "category": "Social Security",
+    "description": "Monthly pension for widows belonging to BPL families.",
+    "eligibility_text": "widow widowed woman female age 40 to 79 BPL below poverty line low income pension monthly social security all categories SC ST OBC general",
+    "benefits": "Rs 300 per month as monthly pension directly transferred to bank account.",
+    "eligibility_criteria": [
+      "Widow aged between 40 and 79 years",
+      "Must belong to a BPL household",
+      "Should not be receiving pension from any other government source"
+    ],
+    "required_documents": [
+      "Aadhaar Card",
+      "Husband's death certificate",
+      "BPL ration card",
+      "Age proof",
+      "Bank account details"
+    ],
+    "how_to_apply": "Apply at the District Social Welfare Office or Gram Panchayat. Submit the application form with widowhood proof and BPL certificate.",
+    "source_url": "https://nsap.nic.in"
+  },
+  {
+    "id": "nsap_disability",
+    "name": "Indira Gandhi National Disability Pension Scheme (IGNDPS)",
+    "category": "Disability",
+    "description": "Monthly pension for persons with severe or multiple disabilities belonging to BPL families.",
+    "eligibility_text": "disability disabled differently abled severe multiple disability age 18 to 79 BPL below poverty line low income all categories SC ST OBC general pension monthly",
+    "benefits": "Rs 300 per month as monthly pension for persons with 80% or more disability.",
+    "eligibility_criteria": [
+      "Age between 18 and 79 years",
+      "Severe or multiple disabilities (80% or more)",
+      "Must belong to a BPL household",
+      "Should not be receiving any other pension"
+    ],
+    "required_documents": [
+      "Aadhaar Card",
+      "Disability certificate (80% or above)",
+      "BPL ration card",
+      "Age proof",
+      "Bank account details"
+    ],
+    "how_to_apply": "Apply at the District Social Welfare Office or Gram Panchayat. Submit disability certificate issued by authorized medical authority along with BPL certificate.",
+    "source_url": "https://nsap.nic.in"
+  },
+  {
+    "id": "adip_scheme",
+    "name": "Assistance to Disabled Persons (ADIP) Scheme",
+    "category": "Disability",
+    "description": "Provides assistive devices and aids to persons with disabilities to enhance their mobility, communication and daily activities.",
+    "eligibility_text": "disability disabled differently abled assistive device aid appliance hearing aid wheelchair low income annual income below 200000 male female all categories SC ST OBC general",
+    "benefits": "Free assistive devices such as tricycles, wheelchairs, crutches, hearing aids, artificial limbs, Braille kits, smart phones for blind, etc.",
+    "eligibility_criteria": [
+      "Indian citizen with disability of 40% or more",
+      "Annual income below Rs 20,000 per month (Rs 2.4 lakh per year)",
+      "For children: age below 5 years not eligible for some devices",
+      "Device must be required as recommended by medical authority"
+    ],
+    "required_documents": [
+      "Aadhaar Card",
+      "Disability certificate (40% or above)",
+      "Income certificate",
+      "Medical prescription for device",
+      "Age proof"
+    ],
+    "how_to_apply": "Apply through implementing agencies such as ALIMCO, NHFDC, or NGOs approved by Ministry of Social Justice and Empowerment. Camps are organized regularly.",
+    "source_url": "https://disabilityaffairs.gov.in/content/page/schemes.php"
+  },
+  {
+    "id": "pmegp",
+    "name": "PM Employment Generation Programme (PMEGP)",
+    "category": "Employment",
+    "description": "Credit-linked subsidy programme to generate employment through establishment of micro enterprises in rural and urban areas.",
+    "eligibility_text": "unemployed self-employment micro enterprise business loan age 18 and above male female SC ST OBC general rural urban annual income any subsidy",
+    "benefits": "Subsidy of 15% to 35% of project cost depending on category and location. Maximum project cost Rs 25 lakh for manufacturing and Rs 10 lakh for service sector.",
+    "eligibility_criteria": [
+      "Age 18 years and above",
+      "At least VIII standard pass for projects above Rs 10 lakh",
+      "New enterprises only (not for existing units)",
+      "Preference to SC/ST, women, ex-servicemen, differently abled"
+    ],
+    "required_documents": [
+      "Aadhaar Card",
+      "Educational certificate",
+      "Project report",
+      "Caste/category certificate",
+      "Bank account details"
+    ],
+    "how_to_apply": "Apply online at kviconline.gov.in/pmegpeportal. Fill the application form, select a bank, upload documents. District KVIC/KVIB/DIC office processes the application.",
+    "source_url": "https://kviconline.gov.in/pmegpeportal"
+  },
+  {
+    "id": "kisan_credit_card",
+    "name": "Kisan Credit Card (KCC)",
+    "category": "Agriculture",
+    "description": "Provides short-term formal credit to farmers for their cultivation and other needs at subsidized interest rates.",
+    "eligibility_text": "farmer agriculture credit loan fisherman animal husbandry cultivator male female all categories SC ST OBC general annual income any rural",
+    "benefits": "Revolving credit facility at interest rate of 7% per annum (with 3% interest subvention, effective rate 4%). Credit limit based on land holding and crops.",
+    "eligibility_criteria": [
+      "All farmers — individual or joint borrowers who are owner cultivators",
+      "Tenant farmers, oral lessees and share croppers",
+      "Self help groups or joint liability groups of farmers",
+      "Fishermen and those engaged in animal husbandry"
+    ],
+    "required_documents": [
+      "Aadhaar Card",
+      "Land records (Khasra/Khatauni)",
+      "Passport size photograph",
+      "Bank account details"
+    ],
+    "how_to_apply": "Apply at any bank branch or cooperative bank. Fill the KCC application form and submit land records and identity proof. Bank disburses credit within 14 days.",
+    "source_url": "https://pmkisan.gov.in/kcc"
+  },
+  {
+    "id": "fasal_bima",
+    "name": "PM Fasal Bima Yojana (PMFBY)",
+    "category": "Agriculture",
+    "description": "Provides financial support to farmers suffering crop loss/damage due to natural calamities, pests and diseases.",
+    "eligibility_text": "farmer agriculture crop insurance natural calamity flood drought crop loss all categories SC ST OBC general rural cultivator male female",
+    "benefits": "Comprehensive risk insurance covering crop loss from sowing to post-harvest. Premium as low as 2% for Kharif, 1.5% for Rabi, 5% for horticulture crops.",
+    "eligibility_criteria": [
+      "All farmers growing notified crops",
+      "Compulsory for loanee farmers; voluntary for non-loanee farmers",
+      "Covers crop loss due to non-preventable natural risks"
+    ],
+    "required_documents": [
+      "Aadhaar Card",
+      "Land records",
+      "Bank account details",
+      "Sowing certificate"
+    ],
+    "how_to_apply": "Apply through banks, insurance companies, or Common Service Centres. Loanee farmers are enrolled automatically. Visit pmfby.gov.in for more information.",
+    "source_url": "https://pmfby.gov.in"
+  },
+  {
+    "id": "beti_bachao",
+    "name": "Beti Bachao Beti Padhao (BBBP)",
+    "category": "Women and Child Welfare",
+    "description": "Scheme to address declining child sex ratio and promote welfare and education of the girl child.",
+    "eligibility_text": "girl child daughter female education school parent guardian low income all categories SC ST OBC general rural urban awareness campaign",
+    "benefits": "Promotes education of girl child. Financial incentives through linked schemes like Sukanya Samriddhi Yojana. Conditional cash transfers in select states.",
+    "eligibility_criteria": [
+      "Primarily targets parents/guardians of girl children",
+      "Focused on districts with low Child Sex Ratio",
+      "No direct income or caste restriction"
+    ],
+    "required_documents": [
+      "Girl child's birth certificate",
+      "Parent Aadhaar Card",
+      "School enrollment proof"
+    ],
+    "how_to_apply": "Awareness and advocacy scheme. Financial benefits accessed through linked schemes. Contact Anganwadi Centre or local Women and Child Development office for guidance.",
+    "source_url": "https://wcd.nic.in/bbbp-schemes"
+  },
+  {
+    "id": "naps",
+    "name": "National Apprenticeship Promotion Scheme (NAPS)",
+    "category": "Employment",
+    "description": "Provides financial support to employers engaging apprentices and stipend support to apprentices for skill development.",
+    "eligibility_text": "youth apprentice skill training vocational age 14 to 35 male female all categories SC ST OBC general unemployed technical diploma ITI",
+    "benefits": "25% of stipend reimbursed to employers (up to Rs 1,500 per month). Basic training cost reimbursed up to Rs 7,500 per apprentice.",
+    "eligibility_criteria": [
+      "Age between 14 and 35 years (18 for hazardous occupations)",
+      "Minimum educational qualification as per trade",
+      "Must not be a full-time student",
+      "Must register on apprenticeship portal"
+    ],
+    "required_documents": [
+      "Aadhaar Card",
+      "Educational certificates",
+      "Age proof",
+      "Medical fitness certificate"
+    ],
+    "how_to_apply": "Register at apprenticeshipindia.org. Select trade and employer, apply for apprenticeship. Can also approach nearby ITI or employer directly.",
+    "source_url": "https://apprenticeshipindia.org"
+  },
+  {
+    "id": "scholarship_obc",
+    "name": "Post Matric Scholarship for OBC Students",
+    "category": "Education",
+    "description": "Scholarship for Other Backward Class students pursuing post-matriculation or post-secondary education.",
+    "eligibility_text": "OBC other backward class student post matriculation scholarship college university annual income below 100000 male female age 14 to 30 education",
+    "benefits": "Maintenance allowance and reimbursement of tuition fees and other non-refundable charges for OBC students.",
+    "eligibility_criteria": [
+      "Must belong to OBC category",
+      "Studying in post-matriculation or post-secondary stage",
+      "Annual parental income should not exceed Rs 1 lakh",
+      "Must be a regular student in a recognized institution"
+    ],
+    "required_documents": [
+      "OBC non-creamy layer certificate",
+      "Income certificate",
+      "Previous year mark sheet",
+      "Aadhaar Card",
+      "Bank account details",
+      "Bonafide certificate"
+    ],
+    "how_to_apply": "Apply online at scholarships.gov.in (National Scholarship Portal) during the application window. Register, fill form, upload documents.",
+    "source_url": "https://scholarships.gov.in"
+  },
+  {
+    "id": "scholarship_st",
+    "name": "Post Matric Scholarship for ST Students",
+    "category": "Education",
+    "description": "Scholarship for Scheduled Tribe students pursuing post-matriculation education to prevent dropout and ensure higher education.",
+    "eligibility_text": "ST scheduled tribe student post matriculation education scholarship college university annual income below 250000 male female age 14 to 30 tribal",
+    "benefits": "Maintenance allowance, tuition and other fees reimbursement, book allowance, and other benefits for ST students.",
+    "eligibility_criteria": [
+      "Must belong to Scheduled Tribe category",
+      "Studying in post-matriculation or post-secondary stage",
+      "Annual parental income should not exceed Rs 2.5 lakh",
+      "Must be a regular student"
+    ],
+    "required_documents": [
+      "Caste certificate (ST)",
+      "Income certificate",
+      "Previous year mark sheet",
+      "Aadhaar Card",
+      "Bank account details",
+      "Bonafide certificate"
+    ],
+    "how_to_apply": "Apply online at scholarships.gov.in (National Scholarship Portal) during the application window.",
+    "source_url": "https://scholarships.gov.in"
+  },
+  {
+    "id": "soil_health_card",
+    "name": "Soil Health Card Scheme",
+    "category": "Agriculture",
+    "description": "Issues soil health cards to farmers carrying crop-wise recommendations of nutrients and fertilizers for individual farms.",
+    "eligibility_text": "farmer agriculture soil health card fertilizer nutrient all categories SC ST OBC general rural male female cultivator landholding",
+    "benefits": "Free soil testing and soil health card with crop-wise fertilizer recommendations. Helps reduce input costs and improve crop yield.",
+    "eligibility_criteria": [
+      "Any farmer with agricultural land",
+      "No income or category restriction",
+      "Covers all states and union territories"
+    ],
+    "required_documents": [
+      "Aadhaar Card",
+      "Land records",
+      "Mobile number"
+    ],
+    "how_to_apply": "Contact your nearest Krishi Vigyan Kendra (KVK), Agriculture Department office, or soil testing laboratory. Alternatively visit soilhealth.dac.gov.in.",
+    "source_url": "https://soilhealth.dac.gov.in"
+  },
+  {
+    "id": "pm_scholarship_capf",
+    "name": "PM Scholarship Scheme for Central Armed Police Forces",
+    "category": "Education",
+    "description": "Scholarships for wards of Central Armed Police Forces (CAPF) and Railway Protection Force (RPF) personnel.",
+    "eligibility_text": "student scholarship CAPF central armed police forces RPF railway protection force ward son daughter ex-serviceman deceased serving male female all categories annual income any",
+    "benefits": "Rs 2,500 per month for boys and Rs 3,000 per month for girls pursuing first professional degree courses.",
+    "eligibility_criteria": [
+      "Wards of CAPF (BSF, CRPF, CISF, ITBP, SSB, NIA, NSG, AR) and RPF personnel",
+      "Priority to wards of deceased/disabled personnel",
+      "Pursuing first professional degree course",
+      "Minimum 60% marks in qualifying examination"
+    ],
+    "required_documents": [
+      "Aadhaar Card",
+      "Service/discharge certificate of parent",
+      "Mark sheet of qualifying exam",
+      "Bonafide certificate from institution",
+      "Bank account details"
+    ],
+    "how_to_apply": "Apply online at ksb.gov.in (Kendriya Sainik Board) or the respective CAPF force website during the application window.",
+    "source_url": "https://ksb.gov.in"
+  },
+  {
+    "id": "pmrpy",
+    "name": "PM Rozgar Protsahan Yojana (PMRPY)",
+    "category": "Employment",
+    "description": "Government pays EPF employer contribution for new employees to incentivize formal employment generation.",
+    "eligibility_text": "salaried employee formal employment EPF EPFO registered new worker age 18 and above male female all categories SC ST OBC general monthly salary below 15000",
+    "benefits": "Government pays 8.33% EPS and 3.67% EPF employer contribution for 3 years for new employees with monthly salary up to Rs 15,000.",
+    "eligibility_criteria": [
+      "New employee registered with EPFO for the first time",
+      "Monthly salary up to Rs 15,000",
+      "Employer must be registered with EPFO",
+      "Valid Aadhaar-seeded UAN"
+    ],
+    "required_documents": [
+      "Aadhaar Card",
+      "UAN (Universal Account Number)",
+      "Bank account details",
+      "Employment proof"
+    ],
+    "how_to_apply": "Employer registers on pmrpy.gov.in and links existing EPFO account. Employee enrollment is automatic once employer registers for the scheme.",
+    "source_url": "https://pmrpy.gov.in"
+  },
+  {
+    "id": "e_nam",
+    "name": "e-NAM (National Agriculture Market)",
+    "category": "Agriculture",
+    "description": "Online trading platform for agricultural commodities connecting farmers directly to buyers across India.",
+    "eligibility_text": "farmer agriculture market selling trading crop commodity male female all categories SC ST OBC general rural produce online market",
+    "benefits": "Access to larger market across states, better price discovery, transparent auctioning, and direct payment to bank account.",
+    "eligibility_criteria": [
+      "Any registered farmer with agricultural produce",
+      "Must register at the nearest APMC mandi",
+      "No minimum quantity restriction",
+      "Applicable in states where APMCs are linked to e-NAM"
+    ],
+    "required_documents": [
+      "Aadhaar Card",
+      "Bank account details",
+      "Land records",
+      "Produce details"
+    ],
+    "how_to_apply": "Register at nearest Agricultural Produce Market Committee (APMC) mandi linked to e-NAM. Can also register online at enam.gov.in.",
+    "source_url": "https://enam.gov.in"
+  },
+  {
+    "id": "nfbs",
+    "name": "National Family Benefit Scheme (NFBS)",
+    "category": "Social Security",
+    "description": "Provides lump-sum family benefit to BPL households on death of the primary breadwinner.",
+    "eligibility_text": "BPL below poverty line low income death breadwinner family male female all categories SC ST OBC general rural urban social security lump sum",
+    "benefits": "One-time lump sum amount of Rs 20,000 to the bereaved household on death of breadwinner.",
+    "eligibility_criteria": [
+      "Household must be below poverty line (BPL)",
+      "Death of primary breadwinner aged between 18 and 64 years",
+      "Application must be made within 90 days of death"
+    ],
+    "required_documents": [
+      "Aadhaar Card of applicant",
+      "Death certificate of breadwinner",
+      "BPL ration card",
+      "Age proof of deceased",
+      "Bank account details"
+    ],
+    "how_to_apply": "Apply at the District Social Welfare Office or Gram Panchayat within 90 days of death. Submit application with all required documents.",
+    "source_url": "https://nsap.nic.in"
+  },
+  {
+    "id": "pmgsy",
+    "name": "PM Gram Sadak Yojana (PMGSY)",
+    "category": "Rural Development",
+    "description": "Provides all-weather road connectivity to unconnected rural habitations to support rural development.",
+    "eligibility_text": "rural village habitation connectivity road infrastructure all categories SC ST OBC general BPL low income farmer labourer rural development",
+    "benefits": "All-weather road connectivity to unconnected habitations. Improves access to markets, schools, hospitals and reduces isolation.",
+    "eligibility_criteria": [
+      "Unconnected rural habitations with population 500+ in plain areas",
+      "Population 250+ in North-East, Hill States, Tribal and Desert areas",
+      "Scheme is for habitations, not individuals"
+    ],
+    "required_documents": [
+      "Not applicable — community-level scheme",
+      "Applications made by State/District authorities"
+    ],
+    "how_to_apply": "This is a community-level infrastructure scheme. Individual citizens cannot directly apply. Contact your Gram Panchayat or Block Development Office to raise demand.",
+    "source_url": "https://pmgsy.nic.in"
+  },
+  {
+    "id": "ddugky",
+    "name": "Deen Dayal Upadhyaya Grameen Kaushalya Yojana (DDU-GKY)",
+    "category": "Employment",
+    "description": "Skill training and placement programme for rural youth to enable livelihood through wage employment.",
+    "eligibility_text": "rural youth skill training placement wage employment age 15 to 35 male female SC ST OBC general BPL low income unemployed vocational",
+    "benefits": "Free skill training, placement assistance, post-placement support, and migration support. Training in various industry-relevant trades.",
+    "eligibility_criteria": [
+      "Rural youth aged 15 to 35 years",
+      "Age relaxation up to 45 years for women and special groups",
+      "Must be rural household member",
+      "Priority to SC/ST, BPL families and minorities"
+    ],
+    "required_documents": [
+      "Aadhaar Card",
+      "Age proof",
+      "Educational certificates",
+      "BPL/income certificate (if applicable)",
+      "Caste certificate (if applicable)"
+    ],
+    "how_to_apply": "Apply at nearest DDU-GKY training centre or through the Gram Panchayat. Find training centres at ddugky.gov.in.",
+    "source_url": "https://ddugky.gov.in"
+  }
+]
