@@ -1,4 +1,4 @@
-# 🏛️ AI-Based Welfare Scheme Recommendation System
+# 🏛️ Government Welfare Scheme Finder
 
 A simple, fully offline Streamlit web app that recommends relevant Indian government welfare schemes based on a user's personal profile using TF-IDF and cosine similarity.
 
